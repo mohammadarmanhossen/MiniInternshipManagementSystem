@@ -1,7 +1,7 @@
 ## 1. OOP Console Screenshot 
 
 ##
-THis code  Python example that uses all 4 main OOP concepts —
+This code  Python example that uses all 4 main OOP concepts —
 
 ✅ Encapsulation
 ✅ Abstraction
